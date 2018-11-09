@@ -1,5 +1,5 @@
 # yelpcamp
-App created as a output from the course "The Web Development Bootcamp".
+App created as an output from the course "The Web Development Bootcamp".
 
 Front-end has Bootstrap, CSS3, HTML5, and a bit of JavaScript.
 Back-end has Node, Passport.JS, Mongoose, Express.JS.
